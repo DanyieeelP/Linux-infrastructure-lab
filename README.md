@@ -28,30 +28,31 @@ This lab emphasizes practical command-line usage, system reliability, security a
 
 ## Lab Roadmap
 
-- PHASE 1:
+PHASE 1:
 - Focus Area: Linux CLI Foundations
 - Status: Active
 
-- PHASE 2:
+PHASE 2:
 - Focus Area: Linux Networking Basics
 - Status: Planned
 
-- PHASE 3:
+PHASE 3:
 - Focus Area: User & Permission Management
 - Status: Planned
 
-- PHASE 4
+PHASE 4
 - Focus Area: Service & Process Management
 - Status: Planned
 
-- PHASE 5
+PHASE 5
 - Focus Area: Ubuntu Server Deployment
 - Status: Planned
 
-- PHASE 6
+PHASE 6
 - Focus Area: SSH, Security & Hardening
 - Status: Planned
-- PHASE 7
+
+PHASE 7
 - Focus Area: Automation (Bash/Python)
 - Status: Planned
 
