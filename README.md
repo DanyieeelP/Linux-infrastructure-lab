@@ -3,7 +3,9 @@ A professional, hands-on portfolio documenting real-world Linux and Networking i
 
 This repository showcases practical experience in Linux system administration, networking fundamentals, service management, and infrastructure troubleshooting through structured lab exercises.
 
-##  Professional Objective
+---
+
+## 🎯 Professional Objective
 
 To build job-ready skills aligned with roles such as:
 
@@ -15,7 +17,9 @@ To build job-ready skills aligned with roles such as:
 
 This lab emphasizes practical command-line usage, system reliability, security awareness, and documentation — mirroring real infrastructure work environments.
 
-## Lab Environment
+---
+
+## 🖥 Lab Environment
 
 - Host OS: Linux Mint
 - Hardware:
@@ -26,7 +30,9 @@ This lab emphasizes practical command-line usage, system reliability, security a
   - Terminal (CLI-first workflow)
   - Virtualization (introduced in later stages)
 
-## Lab Roadmap
+---
+
+## 📚 Lab Roadmap
 
 PHASE 1:
 - Focus Area: Linux CLI Foundations
