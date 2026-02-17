@@ -30,14 +30,16 @@ Establish a strong foundation in Linux command-line operations by performing cor
 ## 🔑 Commands Utilized
 
 - ls, cd, pwd
+- mv, rm, cp, mkdir, rmdir
 ---
 
 ## ⚠ Issues Encountered
----
+--- 
 
 ## ✅ Resolutions
 
 ## 📘 Key Takeaways
 
+- While performing operation, identified inefficiency in moving files individually. Improved workflow by using wildcards(*) patterns to move files in batch, reducing manual steps and minimizing errors.
 ---
 
